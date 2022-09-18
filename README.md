@@ -1,5 +1,6 @@
 # AirBnB Clone V.3 - REST FULL API
 
+
 ## Synopsis
 This is the 3rd version of our AirBnB clone project. We will be using a REST API and Flask
 
